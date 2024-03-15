@@ -1,7 +1,7 @@
 <!-- Project logo -->
 <div align ='center'>
     <a href = 'https://tp5ej4-elopez.netlify.app/'>
-    <img src='./img/imgdombom.webp' alt = 'NexusLogo' width = '300' />
+    <img src='./img/imgdombom.webp' alt = 'imgdombom' width = '300' />
     </a>
     <h1>Trabajo Practico N° 5</h1>
     <p>
