@@ -1,6 +1,6 @@
 <!-- Project logo -->
 <div align ='center'>
-    <a href = 'https://tp5ej4-elopez.netlify.app/'>
+    <a href = 'https://tp5ej4elopez.netlify.app/'>
     <img src='./img/imgdombom.webp' alt = 'imgdombom' width = '300' />
     </a>
     <h1>Trabajo Practico N° 5</h1>
@@ -8,15 +8,15 @@
     Ej N°4
     </p>
     <br>
-    <a href = 'https://tp5ej4-elopez.netlify.app/'>
+    <a href = 'https://tp5ej4elopez.netlify.app/'>
     <strong>Explorar página</strong>
     </a>
     <br>
-    <a href = 'https://tp5ej4-elopez.netlify.app/'>
+    <a href = 'https://tp5ej4elopez.netlify.app/'>
     Solicitar una mejora
     </a>
     .
-    <a href = 'https://tp5ej4-elopez.netlify.app/'>
+    <a href = 'https://tp5ej4elopez.netlify.app/'>
     Soporte
     </a>
     <br><br>
@@ -64,7 +64,7 @@ Readme del trabajo práctico número 5 de DOM y BOM
 - Clonar repositorio:
 
 ```bash
-git clone https://github.com/elopezgit/tp5ej3elopez.git
+git clone https://github.com/elopezgit/tp5ej4elopez.git
 ```
 
 
